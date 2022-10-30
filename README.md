@@ -1,11 +1,11 @@
 # Cat Meme Picker
 
 This project uses diffierent array methods such as filter and includes to sort through a imported data array of objects. 
-The filters are provided via checkboxes and radio buttons.
+The filters are provided via checkboxes,radio buttons and value is selected with query selector.
 The website uses css and dom to dispaly and close a popup that shows a meme. 
 This was made along with Scrimba's interactive essential javascript course.
 
-[Click Here to View!](empty)
+[Click Here to View!](https://ludrahsgartage.github.io/Cat-Meme-Picker/)
 
 ## About Scrimba
 
